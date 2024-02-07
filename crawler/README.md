@@ -44,10 +44,3 @@ sudo apt-get install ruby-dev
 # root user
 apt-get update && apt-get install -y build-essential
 ```
-
-## Enviroment Vars
-```sh
-GITHUB_TOKEN=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
-STATHATKEY=xxMC1g25fuqH7nbx
-STATHATEMAIL=wanting@aspecta.id
-```
